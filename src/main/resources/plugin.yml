@@ -1,0 +1,6 @@
+name: WvspAddon
+version: '${project.version}'
+main: me.shadow_warrior_.wvspaddon.WvspAddon
+api-version: 1.16
+authors: [ shadow_warrior_ ]
+description: Additions for wvsp
