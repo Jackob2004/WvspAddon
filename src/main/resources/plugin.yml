@@ -4,3 +4,6 @@ main: me.shadow_warrior_.wvspaddon.WvspAddon
 api-version: 1.16
 authors: [ shadow_warrior_ ]
 description: Additions for wvsp
+commands:
+  temple:
+    description: test
